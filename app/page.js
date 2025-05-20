@@ -13,15 +13,6 @@ const LandingPage = () => {
           <span className="text-xl md:text-2xl font-bold">Study Genie</span>
         </div>
         <div className="flex items-center space-x-2 md:space-x-4">
-          <a
-            href="https://github.com/Adiaparmar"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="px-3 md:px-4 py-2 text-gray-700 hover:text-blue-600 rounded-lg border border-gray-200 flex items-center space-x-1 md:space-x-2 text-sm md:text-base"
-          >
-            <Github className="w-4 h-4 md:w-5 md:h-5" />
-            <span>GitHub</span>
-          </a>
           <Link href="/dashboard">
             <button className="px-3 md:px-4 py-2 text-white bg-blue-600 rounded-lg hover:bg-blue-700 text-sm md:text-base">
               Dashboard
@@ -102,7 +93,7 @@ const LandingPage = () => {
 
       {/* Footer */}
       <footer className="text-center py-4 md:py-6 text-gray-600 text-sm md:text-base">
-        Made with ❤️ by Aditya Kumar Singh
+        Made with ❤️ by Agentix
       </footer>
     </div>
   );
