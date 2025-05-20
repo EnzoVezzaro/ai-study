@@ -1,5 +1,5 @@
 
-# 📚 AI Study Material Generator
+# 📚 AI Study Material Generator 
 
 Welcome to the AI Study Material Generator, a cutting-edge SaaS application designed to revolutionize learning by generating personalized study materials using advanced AI technology. Built with the latest web development tools and techniques, this platform is perfect for educators, students, and anyone looking to simplify their learning process.
 
@@ -147,13 +147,6 @@ Before starting, ensure you have the following installed:
 
 ## 📜 License
 Distributed under the MIT License. See LICENSE for more details.
-
-## 📞 Contact
-Project Maintainer:
-
-- Aditya Kumar Singh
-- Email: adiaparmar@gmail.com
-- GitHub: Adiaparmar
 
 ---
 Feel free to reach out with any questions, ideas, or feedback!
